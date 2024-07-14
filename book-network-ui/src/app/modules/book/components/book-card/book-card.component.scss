@@ -1,0 +1,20 @@
+
+div{
+  &.card {
+    max-height: 450px;
+    min-height: 450px;
+  }
+}
+img{
+  height: 200px;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+i{
+  cursor: pointer;
+}
+
+
